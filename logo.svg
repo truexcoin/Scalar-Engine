@@ -1,0 +1,7 @@
+<svg width="320" height="132" viewBox="0 0 320 132" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect x="1" y="1" width="318" height="130" stroke="white" stroke-opacity="0.1"/>
+    <rect width="320" height="132" fill="white" fill-opacity="0.02"/>
+    <path d="M40 66L60 66" stroke="#3b82f6" stroke-width="4"/>
+    <text x="80" y="76" fill="white" font-family="sans-serif" font-weight="900" font-size="24" letter-spacing="0.1em">SCALAR<tspan fill="#3b82f6">ENGINE</tspan></text>
+    <rect x="40" y="46" width="4" height="40" fill="#3b82f6"/>
+</svg>
